@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Test Exomind</string>
+
+    <string name="title_main">"List of users"</string>
+    <string name="no_data">Something went wrong</string>
+    <string name="list_of_users">List of users</string>
+    <string name="list_of_albums">List of albums</string>
+    <string name="list_of_pictures">List of pictures</string>
+</resources>
