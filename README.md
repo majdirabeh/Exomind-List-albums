@@ -14,11 +14,11 @@ Exomind albums est une application pour afficher une liste des utilisateurs avec
 - LifeCycle
 
 1. ### List uses <br/>
-<img src="https://github.com/majdirabeh/TestExomind/blob/develop/Screenshots/001.png" style=" width:100px ; height:100px " />
+<img src="https://github.com/majdirabeh/Exomind-List-albums/blob/develop/Screenshots/001.png" style=" width:100px ; height:100px " />
 
 2. ### List albums <br/>
-<img src="https://github.com/majdirabeh/TestExomind/blob/develop/Screenshots/002.png" style=" width:100px ; height:100px " />
+<img src="https://github.com/majdirabeh/Exomind-List-albums/blob/develop/Screenshots/002.png" style=" width:100px ; height:100px " />
 
 2. ### List pictures <br/>
-<img src="https://github.com/majdirabeh/TestExomind/blob/develop/Screenshots/003.png" style=" width:100px ; height:100px " />
+<img src="https://github.com/majdirabeh/Exomind-List-albums/blob/develop/Screenshots/003.png" style=" width:100px ; height:100px " />
 
